@@ -1,0 +1,13 @@
+===== FINAL MODEL EVALUATION =====
+Test Accuracy: 99.65%
+Test Loss: 0.3723
+
+Classification Report:
+                                precision    recall  f1-score   support
+
+E-Waste classification dataset       1.00      1.00      1.00       287
+                       garbage       0.00      0.00      0.00         1
+
+                      accuracy                           1.00       288
+                     macro avg       0.50      0.50      0.50       288
+                  weighted avg       0.99      1.00      0.99       288
